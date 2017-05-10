@@ -1,0 +1,6 @@
+127.0.0.1 - - [29/Nov/2013:15:41:45 +0530] "GET / HTTP/1.1" 200 11444
+127.0.0.1 - - [29/Nov/2013:15:41:55 +0530] "GET /SharekiData/countries HTTP/1.1" 200 21943
+127.0.0.1 - - [29/Nov/2013:15:41:56 +0530] "GET /SharekiData/country/india/cities HTTP/1.1" 200 25940
+127.0.0.1 - - [29/Nov/2013:15:41:56 +0530] "GET /SharekiData/country/india/states HTTP/1.1" 200 979
+127.0.0.1 - - [29/Nov/2013:15:41:56 +0530] "GET /SharekiData/users HTTP/1.1" 200 234
+0:0:0:0:0:0:0:1 - - [29/Nov/2013:15:42:17 +0530] "GET /Shareki/shareki HTTP/1.1" 404 949
